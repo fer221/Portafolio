@@ -1,0 +1,75 @@
+.header-image {
+  width: 100%;
+  margin-top: -2em;
+  margin-bottom: 2em;
+  width: 30px; height: 280px;
+  width: 100vw;
+}
+
+.about-profile-pic {
+  max-width:100%;
+  margin-top: -2em;
+  margin-bottom: 2em;
+  width: 30px; height: 280px;
+  float: left;
+  width: 390px; height: 290px;
+}
+.container-contact{
+  /* position: ; */
+  bottom: 20px;
+  width: 100vw;
+  margin-bottom: 5em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-width: 100%;
+
+}
+.container-skill{
+ 
+  bottom: 20px;
+  width: 100vw;
+  margin-bottom: 5em;
+  float: right;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-width: 100%;
+}
+.btnaout{
+  display: flex;
+  color: #cb9ca1;
+  font-size: 5em;
+}
+.fa-react{
+  color: #cb9ca1;
+  font-size: 5em;
+}
+.fa-js{
+  color: #cb9ca1;
+  font-size: 5em;
+}
+.fa-css3-alt{
+  color: #cb9ca1;
+  font-size: 5em;
+}
+.fa-html5{
+  color: #cb9ca1;
+  font-size: 5em;
+}
+.fa-node{
+  color: #cb9ca1;
+  font-size: 5em;
+}
+.fa-github-square{
+  color: #cb9ca1;
+  font-size: 5em;
+}
+
+.fa-file-download{
+  color: #cb9ca1;
+  font-size: 1em;
+}
+.btn-link{
+  color: #cb9ca1;
+}
